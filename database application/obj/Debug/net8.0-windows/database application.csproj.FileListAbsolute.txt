@@ -1,0 +1,78 @@
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\database application.exe
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\database application.deps.json
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\database application.runtimeconfig.json
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\database application.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\database application.pdb
+F:\programs\VS\projects\database application\database application\obj\Debug\net8.0-windows\database application.csproj.GenerateResource.cache
+F:\programs\VS\projects\database application\database application\obj\Debug\net8.0-windows\database application.GeneratedMSBuildEditorConfig.editorconfig
+F:\programs\VS\projects\database application\database application\obj\Debug\net8.0-windows\database application.AssemblyInfoInputs.cache
+F:\programs\VS\projects\database application\database application\obj\Debug\net8.0-windows\database application.AssemblyInfo.cs
+F:\programs\VS\projects\database application\database application\obj\Debug\net8.0-windows\database application.csproj.CoreCompileInputs.cache
+F:\programs\VS\projects\database application\database application\obj\Debug\net8.0-windows\database application.dll
+F:\programs\VS\projects\database application\database application\obj\Debug\net8.0-windows\refint\database application.dll
+F:\programs\VS\projects\database application\database application\obj\Debug\net8.0-windows\database application.pdb
+F:\programs\VS\projects\database application\database application\obj\Debug\net8.0-windows\database application.genruntimeconfig.cache
+F:\programs\VS\projects\database application\database application\obj\Debug\net8.0-windows\ref\database application.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Azure.Core.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Azure.Identity.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\SQLConnection.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\System.ClientModel.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\System.Memory.Data.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+F:\programs\VS\projects\database application\database application\obj\Debug\net8.0-windows\database application.csproj.AssemblyReference.cache
+F:\programs\VS\projects\database application\database application\obj\Debug\net8.0-windows\database.C82601D7.Up2Date
+F:\programs\VS\projects\database application\database application\obj\Debug\net8.0-windows\database_application.Databaseapplication.resources
+F:\programs\VS\projects\database application\database application\obj\Debug\net8.0-windows\database_application.Authoritaition.resources
+F:\programs\VS\projects\database application\database application\obj\Debug\net8.0-windows\database_application.adding.resources
+F:\programs\VS\projects\database application\database application\obj\Debug\net8.0-windows\database_application.chnginf.resources
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\EPPlus.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+F:\programs\VS\projects\database application\database application\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
